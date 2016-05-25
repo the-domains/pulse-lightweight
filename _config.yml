@@ -1,7 +1,7 @@
 name: Pulse Lightweight
 favicon: null
-layout_spectrum: 0.74714
-typography_spectrum: 0.49893
+layout_spectrum: 0
+typography_spectrum: 0.50248
 cta:
   domain: null
   bucket: null

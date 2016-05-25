@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Today, we gather around our big screens to watch big shows and big events. The overall experience of TV has continued to diminish. We must recognize that mobile apps could be the future of television. HBO NOW, Watch, ESPN, Netflix, Hulu, iTunes apps are quickly becoming how we watch movies and shows today. Therefore, Apple built a foundation around this vision with an operating system called tvOS, providing innovative ways to connect with your screen, and a smart use of Siri to search for something to watch. Perhaps, this is where television is headed. On your mobile devices and computers, you already use apps to watch shows and movies. Apps allow you to make individual choices about what you want to watch.'
-datePublished: '2016-05-25T15:29:33.430Z'
-dateModified: '2016-05-25T15:29:02.668Z'
+datePublished: '2016-05-25T15:32:23.486Z'
+dateModified: '2016-05-25T15:32:22.987Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-25-today-we-gather-around-our-big-screens-to-watch-big-shows-a.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-25-today-we-gather-around-our-big-screens-to-watch-big-shows-a.md
 url: today-we-gather-around-our-big-screens-to-watch-big-shows-a/index.html
 _type: Article
 

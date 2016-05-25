@@ -1,7 +1,7 @@
 name: Pulse Lightweight
 favicon: null
-layout_spectrum: 0.4947791309095919
-typography_spectrum: 0.8649702807888389
+layout_spectrum: 0
+typography_spectrum: 0.49893
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.3598162920679897
+    - '#f2f2f2'
+    - '#231d1f'
+    - '#2386e3'
+    - '#ff9e21'
+    - '#d567fe'
+  brandStrength: 0.5
   lightness: 0.472472874680534
-  saturation: 0.514674756443128
+  saturation: 0.5
   rhythmicContrast: 0.5164199774153531
 purpose: []

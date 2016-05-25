@@ -1,0 +1,28 @@
+name: Pulse Lightweight
+favicon: null
+layout_spectrum: 0.4947791309095919
+typography_spectrum: 0.8649702807888389
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3598162920679897
+  lightness: 0.472472874680534
+  saturation: 0.514674756443128
+  rhythmicContrast: 0.5164199774153531
+purpose: []
